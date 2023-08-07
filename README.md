@@ -4,3 +4,4 @@
 - We can search the users by their name and it fetches a list of Github users with that name.
 - We can view the details of a specific user and also the statistics related to that user.
 - It also shows the famous repos of a particular user.
+- Live demonstration : [Github Finder](https://the-github-finder.netlify.app/)
